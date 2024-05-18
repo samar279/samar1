@@ -28,6 +28,9 @@ body {
     font-weight: bold;
     margin-bottom: 20px; /* زيادة المسافة بين العنوان والخط الفاصل */
 }
+.small-text {
+    text-align: left;
+}
 
 hr {
     width: 80%;
